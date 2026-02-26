@@ -1,4 +1,4 @@
-# 🏎️ Formula Student Steering System : Data-Driven Design & Optimization
+# Formula Student Steering System : Data-Driven Design & Optimization
 
 Steering system design, simulation, and optimization for a Formula Student EV.
 
@@ -7,7 +7,6 @@ Steering system design, simulation, and optimization for a Formula Student EV.
 > confidential and not publicly shared.
 
 >  **My Role:** Vehicle Dynamics Engineer — Steering Subsystem
->  COEP Technological University, Pune | 2024–2025
 
 ---
 
