@@ -1,7 +1,6 @@
 # 🏎️ Formula Student Steering System : Data-Driven Design & Optimization
 
-Steering system design, simulation, and optimization for a Formula Student EV,
-developed for **Formula Student Germany** — representing India & COEP Technological University.
+Steering system design, simulation, and optimization for a Formula Student EV.
 
 > ⚠️ **Confidentiality Notice:** This repository documents the methodology and analytical
 > approach only. Raw data, CAD files, specific parameters, and simulation outputs are
